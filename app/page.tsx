@@ -420,7 +420,7 @@ export default function Home() {
             <div className="flex flex-wrap max-w-[90vw] mt-4 sm:mt-0 sm:w-[70%]">
               <Link
                 target="_blank"
-                href="https://nextjs.org/"
+                href="https://www.typescriptlang.org/"
                 className="my-2 mr-2 text-sm hover:underline hover:duration-700 duration-700 text-[#9C9C9C] hover:text-white cursor-pointer"
               >
                 Typescript
