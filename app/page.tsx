@@ -620,7 +620,7 @@ export default function Home() {
                 Whatsapp Me :{" "}
                 <span className="text-sm hover:underline hover:duration-700 duration-700 text-[#9C9C9C] hover:text-white cursor-pointer">
                  
-                    <Link href={"https://wa.me/917339210346?text=hi"} target="_blank">Send Me "Hi"</Link>
+                    <Link href={"https://wa.me/917339213046?text=hi"} target="_blank">Send Me "Hi"</Link>
               
                 </span>
               </p>
